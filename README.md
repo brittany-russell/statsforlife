@@ -1,1 +1,4 @@
-Repository for my stats blog using GitHub pages.
+# Stats for Life
+
+Welcome to my statistics blog! 
+
