@@ -21,8 +21,9 @@
 title: Statistics for Life
 email: brittanyfarnsworth@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Statistics influence more and more of our daily lives. This blog is a place to share statistical ideas that interest me and help
-  us better understand the world around us.
+  Statistics is a powerful tool for understanding and explaining the world around us, from groundbreaking medical research 
+  to guiding our everyday decisions.
+  This blog is a place to share ideas that interest me in statistics, econometrics, biostatistics, and more. 
 baseurl: "/statsforlife" # the subpath of your site, e.g. /blog
 url: "https://brittany-russell.github.io/statsforlife/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
