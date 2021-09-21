@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+My name is Brittany Russell. I graduated from Brigham Young University with an undergraduate degree in economics, then again with a masters in statistics.
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
