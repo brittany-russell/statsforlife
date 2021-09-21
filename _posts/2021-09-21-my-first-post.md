@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Missing Data and my Masters Project"
-date:   2021-09-11 15:47:34 -0500
+date:   2021-09-21 12:00:00 -0500
 categories: jekyll update
 ---
 
