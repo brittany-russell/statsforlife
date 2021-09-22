@@ -3,7 +3,7 @@ layout: post
 title:  "Missing Data and my Masters Project"
 date:   2021-09-21 12:00:00 -0500
 categories: jekyll update
-usemathjax: true
+[//]: # usemathjax: true
 ---
 
 So, I want to talk about my masters project. It's been almost 18 months since I successfully completed the research project that enabled me to graduate with my MS in statistics. I'm mostly recovered. It involved imputing missing data about individuals screened for rheumatic heart disease. Thousands of children had been screened, but only a small percentage had received a second, more thorough examination. I wanted to answer questions about the whole population that involved information measured in the second examination. 
