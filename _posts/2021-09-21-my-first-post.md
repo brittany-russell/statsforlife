@@ -22,6 +22,9 @@ This brings us to Bayesian missing data models. In a Bayesian framework, we can 
 
 $$ f(\mathbf{X}_{obs}, \mathbf{X}_{mis}, \mathbf{m} | \boldsymbol{\theta}, \boldsymbol{\phi}) = f(\mathbf{X}_{obs}, \mathbf{X}_{mis} | \boldsymbol{\theta}) f(\mathbf{m} | \mathbf{X}_{obs}, \mathbf{X}_{mis}, \boldsymbol{\phi}) $$
 
+
+$$ E = mc^2 $$
+
 This incorporates the relationship between the missingness and the unobserved data. This type of structure is best when we know about the causes and pattern of missing data. Pattern-mixture models factor the likelihood differently and do not require us to specify a model for the missingness.
 
 Using a Bayesian approach for missing data is a clear, intuitive way to accurately handle nonrandom missingness. The mechanism behind the missingness can be modeled directly, incorporating any information we have about why data were not observed. Then the information provided by the nonrandom missingness can be used to improve estimation.
