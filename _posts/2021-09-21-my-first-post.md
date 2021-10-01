@@ -20,6 +20,4 @@ There are different ways for data to be missing, and the type of missingness det
 
 This brings us to Bayesian missing data models. In a Bayesian framework, we can model missing data the same way we model unknown parameters. However, it also allows us to handle nonrandom missingness by modeling the distribution of missingness explicitly. We can factor the distribution of the data (observed and unobserved) and the missingness (a binary variable) into the marginal distribution of the complete data and a missingness model, conditioned on the data. This accounts for the relationship between the missingness and the unobserved data. This type of structure is best when we know about the causes and pattern of missing data. Pattern-mixture models factor the likelihood differently and do not require us to specify a model for the missingness.
 
-$$ \pi = 3.14 $$
-
 Using a Bayesian approach for missing data is a clear, intuitive way to accurately handle nonrandom missingness. The mechanism behind the missingness can be modeled directly, incorporating any information we have about why data were not observed. Then the information provided by the nonrandom missingness can be used to improve estimation.
